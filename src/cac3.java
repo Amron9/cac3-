@@ -5,7 +5,7 @@ public class cac3 {
 
     // create an object of Scanner class
     Scanner input = new Scanner(System.in);
-
+o
     // ask users to enter operator
     System.out.println("Choose an operator: +, -, *, or /");
     operator = input.next().charAt(0);
