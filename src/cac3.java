@@ -49,8 +49,7 @@ class Main {
             default:
                 System.out.println("Invalid operator!");
                 break;
-        }
-
+        //COMMIT
         input.close();
     }
 }
